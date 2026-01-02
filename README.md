@@ -8,6 +8,7 @@ The application is built using Streamlit and a trained Logistic Regression model
 
 Osteoporosis is a bone disease that leads to decreased bone density and increased fracture risk. Early detection plays a crucial role in preventing severe complications.
 
+
 **This application:**
 
 - Accepts bone X-ray images
@@ -17,6 +18,7 @@ Osteoporosis is a bone disease that leads to decreased bone density and increase
 - Predicts the disease condition using a trained ML model
 
 
+
   The model predicts one of the following categories:
 
 - Normal
@@ -24,6 +26,7 @@ Osteoporosis is a bone disease that leads to decreased bone density and increase
 - Osteopenia
 
 - Osteoporosis
+
 
 
   **Features :**
@@ -59,6 +62,7 @@ Osteoporosis is a bone disease that leads to decreased bone density and increase
 **Project Structure:**
 
   Disease-Prediction-for-Osteoporosis/
+  
 │
 ├── app.py                 # Streamlit application
 
@@ -69,6 +73,7 @@ Osteoporosis is a bone disease that leads to decreased bone density and increase
 ├── background.png         # UI background image
 
 └── README.md              # Project documentation
+
 
 
 **Model Details**
