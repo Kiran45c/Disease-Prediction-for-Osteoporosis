@@ -61,9 +61,13 @@ Osteoporosis is a bone disease that leads to decreased bone density and increase
   Disease-Prediction-for-Osteoporosis/
 │
 ├── app.py                 # Streamlit application
+
 ├── logi_reg.pkl           # Trained ML model
+
 ├── requirements.txt       # Project dependencies
+
 ├── background.png         # UI background image
+
 └── README.md              # Project documentation
 
 
